@@ -15,8 +15,14 @@ Languages I have Used ->:
 Techologies I Have Worked with ->
 -----------------------------------------------------------
 1: ReactS
+<br>
 2: NuxtJS
+<br>
 3: C++
+<br>
 4: Rust
+<br>
 5: Python
+<br>
 6: NextJS
+<br>
