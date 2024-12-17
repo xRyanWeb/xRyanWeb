@@ -12,7 +12,7 @@ Languages I have Used ->:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRyanWeb&hide_progress=trueb&show_icons=true&theme=transparent)
 
-Techologies I Have Worked with ->
+    #### Techologies I Have Worked with ->
 -----------------------------------------------------------
 
     1: ReactS
