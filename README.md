@@ -8,3 +8,4 @@ My Skill Level is Here ->:
 
 ### Languages I have Used ->:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xRyanWeb&layout=compact)
